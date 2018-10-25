@@ -1,0 +1,9 @@
+#ignore project
+
+*.csproj
+*.sln
+
+**/bin
+**/obj
+**/Properties
+**/.vs/
